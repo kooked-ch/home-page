@@ -6,7 +6,6 @@ import {
   AccordionContent,
 } from "../../ui/accordion";
 import Link from "next/link";
-import { siteConfig } from "@/config/site";
 
 export default function FAQ() {
   return (
@@ -114,29 +113,6 @@ export default function FAQ() {
                   className="text-primary underline"
                 >
                   Figma community
-                </Link>
-                .
-              </p>
-            </AccordionContent>
-          </AccordionItem>
-
-          <AccordionItem value="item-6">
-            <AccordionTrigger>Can I get a discount?</AccordionTrigger>
-            <AccordionContent>
-              <p className="mb-4 max-w-[580px] text-muted-foreground">
-                Actually, yes! I&apos;m looking for beta testers and great
-                examples of Launch UI in action to feature on the website.
-                Here&apos;s the deal: you provide feedback to help me improve
-                the product, and in return, you get a huge discount plus a solid
-                backlink for your product.
-              </p>
-              <p className="mb-4 max-w-[580px] text-muted-foreground">
-                If this interests you, don&apos;t hesitate to{" "}
-                <Link
-                  href={siteConfig.links.email}
-                  className="text-primary underline"
-                >
-                  reach out by email
                 </Link>
                 .
               </p>
