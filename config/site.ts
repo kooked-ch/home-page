@@ -1,17 +1,16 @@
 export const siteConfig = {
-  name: "Launch UI",
-  url: "https://launchuicomponents.com",
-  getStartedUrl:
-    "https://launchuicomponents.com/docs/getting-started/introduction",
-  ogImage: "https://launchuicomponents.com/og.jpg",
+  name: "Kooked Portal",
+  url: "https://www.kooked.app",
+  getStartedUrl: "https://portal.kooked.app",
+  ogImage: "https://www.kooked.app/og.jpg",
   description:
-    "Landing page components built with React, Shadcn/ui and Tailwind that will make your website feel premium.",
+    "Kooked Portal is a platform for deploying and managing containerized applications",
   links: {
     twitter: "https://twitter.com/mikolajdobrucki",
-    github: "https://github.com/launch-ui/launch-ui",
+    github: "https://github.com/kooked-ch",
   },
   stats: {
-    updated: "2024-12-29",
+    updated: "2025-05-01",
   },
 };
 
