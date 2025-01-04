@@ -70,7 +70,7 @@ export default function Navigation() {
                   >
                     <LaunchUI />
                     <div className="mb-2 mt-4 text-lg font-medium">
-                      Launch UI
+                      Kooked Portal
                     </div>
                     <p className="text-sm leading-tight text-muted-foreground">
                       Landing page template built with React, Shadcn/ui and

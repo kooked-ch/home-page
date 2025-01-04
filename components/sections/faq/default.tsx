@@ -26,14 +26,15 @@ export default function FAQ() {
                 page makes the difference between success and failure.
               </p>
               <p className="mb-4 max-w-[640px] text-balance text-muted-foreground">
-                Launch UI helps you ship faster without compromising on quality.
+                Kooked Portal helps you ship faster without compromising on
+                quality.
               </p>
             </AccordionContent>
           </AccordionItem>
 
           <AccordionItem value="item-2">
             <AccordionTrigger>
-              Why use Launch UI instead of a no-code tool?
+              Why use Kooked Portal instead of a no-code tool?
             </AccordionTrigger>
             <AccordionContent>
               <p className="mb-4 max-w-[600px] text-muted-foreground">
@@ -48,7 +49,7 @@ export default function FAQ() {
               <p className="mb-4 max-w-[600px] text-muted-foreground">
                 What might seem like a convenient solution today could paint you
                 into a corner tomorrow, limiting your ability to scale and
-                adapt. Launch UI gives you full control of your code while
+                adapt. Kooked Portal gives you full control of your code while
                 maintaining professional quality.
               </p>
             </AccordionContent>
@@ -56,13 +57,13 @@ export default function FAQ() {
 
           <AccordionItem value="item-3">
             <AccordionTrigger>
-              How Launch UI is different from other components libraries and
+              How Kooked Portal is different from other components libraries and
               templates?
             </AccordionTrigger>
             <AccordionContent>
               <p className="mb-4 max-w-[580px] text-muted-foreground">
-                Launch UI stands out with premium design quality and delightful
-                touches of custom animations and illustrations.
+                Kooked Portal stands out with premium design quality and
+                delightful touches of custom animations and illustrations.
               </p>
               <p className="mb-4 max-w-[580px] text-muted-foreground">
                 All components are carefully crafted to help position your
@@ -71,8 +72,8 @@ export default function FAQ() {
               </p>
               <p className="mb-4 max-w-[640px] text-balance text-muted-foreground">
                 Unlike many libraries that rely on outdated CSS practices and
-                old dependencies, Launch UI is built with modern technologies
-                and best practices in mind.
+                old dependencies, Kooked Portal is built with modern
+                technologies and best practices in mind.
               </p>
             </AccordionContent>
           </AccordionItem>
@@ -83,8 +84,8 @@ export default function FAQ() {
             </AccordionTrigger>
             <AccordionContent>
               <p className="mb-4 max-w-[580px] text-muted-foreground">
-                The basic version of Launch UI is open-source and free forever,
-                under a do-whatever-you-want license.
+                The basic version of Kooked Portal is open-source and free
+                forever, under a do-whatever-you-want license.
               </p>
               <p className="mb-4 max-w-[580px] text-muted-foreground">
                 The pro version that contains more components and options is a
@@ -106,8 +107,8 @@ export default function FAQ() {
             <AccordionTrigger>Are Figma files included?</AccordionTrigger>
             <AccordionContent>
               <p className="mb-4 max-w-[580px] text-muted-foreground">
-                Yes! The complete Launch UI template is available for free on
-                the{" "}
+                Yes! The complete Kooked Portal template is available for free
+                on the{" "}
                 <Link
                   href="https://www.figma.com/community/file/1420131743903900629/launch-ui-landing-page-components-ui-kit"
                   className="text-primary underline"

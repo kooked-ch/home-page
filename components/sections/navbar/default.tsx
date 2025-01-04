@@ -22,7 +22,7 @@ export default function Navbar() {
               className="flex items-center gap-2 text-xl font-bold"
             >
               <LaunchUI />
-              Launch UI
+              Kooked Portal
             </a>
             <Navigation />
           </NavbarLeft>
@@ -50,7 +50,7 @@ export default function Navbar() {
                     href={siteConfig.url}
                     className="flex items-center gap-2 text-xl font-bold"
                   >
-                    <span>Launch UI</span>
+                    <span>Kooked Portal</span>
                   </a>
                   <a
                     href={siteConfig.url}

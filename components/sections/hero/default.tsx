@@ -33,7 +33,7 @@ export default function Hero() {
         <div className="flex flex-col items-center gap-6 text-center sm:gap-12">
           <Badge variant="outline" className="animate-appear">
             <span className="text-muted-foreground">
-              New version of Launch UI is out!
+              New version of Kooked Portal is out!
             </span>
             <a
               href={siteConfig.getStartedUrl}
@@ -70,7 +70,7 @@ export default function Hero() {
               <Mockup type="responsive">
                 <Image
                   src={src}
-                  alt="Launch UI app screenshot"
+                  alt="Kooked Portal app screenshot"
                   width={1248}
                   height={765}
                 />
