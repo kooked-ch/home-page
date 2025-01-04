@@ -22,11 +22,11 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Mikolaj Dobrucki",
-      url: "https://mikolajdobrucki.com",
+      name: "Dwesh163",
+      url: "https://github.com/dwesh163",
     },
   ],
-  creator: "mikolajdobrucki",
+  creator: "dwesh163",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@mikolajdobrucki",
+    creator: "@dwesh163",
   },
   icons: {
     icon: "/favicon.svg",
